@@ -13,6 +13,31 @@
   font-weight: 700;
 }
 
+.laranja {
+  color: orange;
+}
+
+.banana{
+  color: yellow;
+}
+
+.morango {
+  color: red;
+}
+
+.abacaxi{
+  color: yellow;
+}
+
+.pera{
+  color: green
+}
+
+.fruits{
+  border-bottom: 1px solid black;
+  color: black;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
